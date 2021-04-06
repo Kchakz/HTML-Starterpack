@@ -1,0 +1,39 @@
+header{
+
+    color: rgb(224, 255, 49);
+    background-color: cadetblue;
+    font-size: xx-large;
+    text-align: center;
+} 
+
+footer{
+
+    color: black;
+    background-color: cadetblue;
+    width: 100%;
+
+}
+
+h3{
+
+    text-align: center;
+
+}
+
+a{
+
+    color: rgb(0, 0, 0);
+    text-underline-offset: 11111rem;
+}
+
+h3{
+
+    text-align: center;
+
+}
+
+p7{
+    text-align: right;
+    color: black;
+    font-size: x-large;
+}

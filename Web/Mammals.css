@@ -1,0 +1,57 @@
+header{
+
+    color: rgb(224, 255, 49);
+    background-color: cadetblue;
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+p6{
+    font-size: x-large;
+    font: outline;
+    padding-left: 6rem;
+} 
+
+table{
+
+outline-color: black;
+
+}
+
+footer{
+
+    color: black;
+    background-color: cadetblue;
+    width: 100%;
+
+}
+
+
+h3{
+
+    text-align: center;
+
+}
+p7{
+
+    text-align: right;
+    color: black;
+    font-size: x-large;
+
+}
+
+a{
+
+    color: rgb(0, 0, 0);
+    text-underline-offset: 11rem;
+}
+
+p6{
+
+    color: black;
+    font-size: x-large;
+    text-align: left;
+    text-align: start;
+        
+}

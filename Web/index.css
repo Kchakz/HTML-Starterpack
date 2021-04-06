@@ -1,0 +1,57 @@
+header{
+
+    color: rgb(224, 255, 49);
+    background-color: cadetblue;
+    font-size: xx-large;
+    text-align: center;
+    width:100%;
+    margin: 10rem auto 10rem
+}
+
+
+
+p{
+
+font-size: x-large;
+font: outline;
+padding-left: 6rem;
+}
+
+footer{
+
+    color: black;
+    background-color: cadetblue;
+    width: 100%;
+
+}
+
+
+h3{
+
+    text-align: center;
+
+}
+p7{
+
+    text-align: right;
+    color: black;
+    font-size: x-large;
+
+}
+
+a{
+
+    color: rgb(0, 0, 0);
+    }
+    
+table{
+        align-items:center;
+        
+    }
+    
+ img{
+        
+        align-items:center;
+        
+    }
+    
